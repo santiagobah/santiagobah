@@ -1,14 +1,12 @@
-## Hi there 👋
-
 # Hi there! 👋 I'm Santiago Bañuelos
 
 ## 🚀 About Me
-I'm a Data & Cybersecurity Engineering student at Universidad Panamericana. Passionate about technology, automation, and software development. I have experience working with databases, computer vision, and operations research. 
+I'm a Data Intelligence & Cybersecurity Engineering student at Universidad Panamericana. Passionate about technology, and software development. I have experience working with databases and C++ big projects.
 
 ## 💻 Tech Stack
-- **Languages:** Python, C++, SQL, JavaScript
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** OpenCV, PyQt6, Xcode, VMware Fusion, GitHub
+- **Languages:** Python, C++, C#, SQL
+- **Databases:** MySQL
+- **Tools & Platforms:** PyQt6, Xcode, VMware Fusion, GitHub
 - **Other Skills:** Drone pilot, video editing, problem-solving, adaptability, leadership
 
 ## 🎯 Projects
@@ -19,7 +17,6 @@ I'm a Data & Cybersecurity Engineering student at Universidad Panamericana. Pass
 - **Social Commitment Leader** – Passionate about volunteering and social impact.
 
 ## 📫 Let's Connect!
-- **GitHub:** [https://github.com/santiagobah](https://github.com/santiagobah)
 - **Email:** 0265706@up.edu.mx
 
 ⭐️ Feel free to check out my projects!
