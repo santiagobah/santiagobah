@@ -14,8 +14,8 @@ I'm a Data & Cybersecurity Engineering student at Universidad Panamericana. Pass
 ## 🎯 Projects
 - **Elite Sky Media** – A professional drone filming and photography agency in Mexico City.
 
-## 🌎 Experience & Involvement
-- **Aerodynamics Team @ Universidad Panamericana** – Working on high-performance aerodynamic solutions.
+## 🌎 Experience
+- **Aerodynamics Team at Universidad Panamericana** – Working on high-performance aerodynamic solutions.
 - **Social Commitment Leader** – Passionate about volunteering and social impact.
 
 ## 📫 Let's Connect!
